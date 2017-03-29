@@ -89,3 +89,7 @@ Code:
 MoveToFront.java;  
 BurrowsWheeler.java;  
 CircularSuffixArray.java  
+
+
+**Really really appreciating Prof.Robert Sedgewick's lecturing and providing such a high quality algorithm MOOC.
+This is one of the best courses I've ever taken in my student life.**
